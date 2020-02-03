@@ -12,7 +12,7 @@
 
 ### How AJax Work
 
-[Ajax Work Flow link](https://github.com/CodeMechanix/AJAX-Corner/tree/master/images/ajax.png)
+[Ajax Work Flow link](https://github.com/Programming-Interview-Preparation/Learn-AJAX/blob/master/images/ajax.png)
 
 
 ### Understanding Synchronous vs Asynchronous
@@ -21,19 +21,19 @@
 1. A synchronous request blocks the client until operation completes i.e. browser is unresponsive. In such case, javascript engine of the browser is blocked.
 
 
-[See Image](https://github.com/CodeMechanix/AJAX-Corner/tree/master/images/synchronous.gif)
+[See Image](https://github.com/Programming-Interview-Preparation/Learn-AJAX/blob/master/images/synchronous.gif)
 
 2. As you can see in the above image, full page is refreshed at request time and user is blocked until request completes.
 
-[Let's understand it another way.](https://github.com/CodeMechanix/AJAX-Corner/tree/master/images/synchronousrequest.jpg)
+[Let's understand it another way.](https://github.com/Programming-Interview-Preparation/Learn-AJAX/blob/master/images/synchronousrequest.jpg)
 
 
 #### Asynchronous (AJAX Web-Application Model)
 1. An asynchronous request doesn’t block the client i.e. browser is responsive. At that time, user can perform another operations also. In such case, javascript engine of the browser is not blocked.
-[See Image ](https://github.com/CodeMechanix/AJAX-Corner/tree/master/images/asynchronous.gif)
+[See Image ](https://github.com/Programming-Interview-Preparation/Learn-AJAX/blob/master/images/asynchronous.gif)
 2. As you can see in the above image, full page is not refreshed at request time and user gets response from the ajax engine. 
 
-[Let's try to understand asynchronous communication by the image.](https://github.com/CodeMechanix/AJAX-Corner/tree/master/images/asynchronousrequest.jpg)
+[Let's try to understand asynchronous communication by the image.](https://github.com/Programming-Interview-Preparation/Learn-AJAX/blob/master/images/asynchronousrequest.jpg)
 
 ### AJAX Technologies
 * As describe earlier, ajax is not a technology but group of inter-related technologies. AJAX technologies includes:
@@ -96,7 +96,7 @@ It is used to bring above technologies together. Independently, it is used mainl
 ### How AJAX works?
 * AJAX communicates with the server using XMLHttpRequest object. Let's try to understand the flow of ajax or how ajax works by the image displayed below.
 
-[See Image](https://github.com/CodeMechanix/AJAX-Corner/tree/master/images/howajaxworks.png)
+[See Image](https://github.com/Programming-Interview-Preparation/Learn-AJAX/blob/master/images/howajaxworks.png)
 
 * As you can see in the above example, XMLHttpRequest object plays a important role.
 
@@ -109,5 +109,5 @@ It is used to bring above technologies together. Independently, it is used mainl
 
 
 
-##### Note Reference:
-* [Reference - 01](https://www.javatpoint.com/)
+##### Learn From:
+* [Javatpoint](https://www.javatpoint.com/)
