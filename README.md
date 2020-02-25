@@ -12,7 +12,7 @@
 
 ### How AJax Work
 
-[Ajax Work Flow link](https://github.com/Programming-Interview-Preparation/Learn-AJAX/blob/master/images/ajax.png)
+[Ajax Work Flow link] (https://github.com/Programming-Interview-Preparation/Learn-AJAX/blob/master/images/ajax.png)
 
 
 ### Understanding Synchronous vs Asynchronous
